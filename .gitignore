@@ -1,1 +1,5 @@
 *.bat
+.ipynb_checkpoints/Project Log-checkpoint.ipynb
+data/X4sShowX4StdOut 2.csv
+data/X4sShowX4StdOut.csv
+.ipynb_checkpoints/Nuclear Data 2 - NucML-checkpoint.ipynb
